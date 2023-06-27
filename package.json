@@ -2,7 +2,7 @@
   "name": "@fogbender/b2bsaaskit",
   "private": true,
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
